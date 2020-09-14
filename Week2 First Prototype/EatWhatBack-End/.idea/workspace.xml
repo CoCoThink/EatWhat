@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="036551a9-8e71-46d6-a51c-7025d7df2c18" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hAna0UXHgQwhxs9xQtIaxzCVms" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/api.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="api" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="EatWhatBack-End" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="036551a9-8e71-46d6-a51c-7025d7df2c18" name="Default Changelist" comment="" />
+      <created>1599462823240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599462823240</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="131" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599463863279">
+      <screen x="0" y="0" width="1350" height="730" />
+    </state>
+    <state x="131" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1350.730@0.0.1350.730" timestamp="1599463863279" />
+    <state x="456" y="148" key="FileChooserDialogImpl" timestamp="1599463857951">
+      <screen x="0" y="0" width="1350" height="730" />
+    </state>
+    <state x="456" y="148" key="FileChooserDialogImpl/0.0.1350.730@0.0.1350.730" timestamp="1599463857951" />
+    <state width="1314" height="155" key="GridCell.Tab.0.bottom" timestamp="1600049435861">
+      <screen x="0" y="0" width="1350" height="730" />
+    </state>
+    <state width="1314" height="155" key="GridCell.Tab.0.bottom/0.0.1350.730@0.0.1350.730" timestamp="1600049435861" />
+    <state width="1314" height="155" key="GridCell.Tab.0.center" timestamp="1600049435860">
+      <screen x="0" y="0" width="1350" height="730" />
+    </state>
+    <state width="1314" height="155" key="GridCell.Tab.0.center/0.0.1350.730@0.0.1350.730" timestamp="1600049435860" />
+    <state width="1314" height="155" key="GridCell.Tab.0.left" timestamp="1600049435860">
+      <screen x="0" y="0" width="1350" height="730" />
+    </state>
+    <state width="1314" height="155" key="GridCell.Tab.0.left/0.0.1350.730@0.0.1350.730" timestamp="1600049435860" />
+    <state width="1314" height="155" key="GridCell.Tab.0.right" timestamp="1600049435860">
+      <screen x="0" y="0" width="1350" height="730" />
+    </state>
+    <state width="1314" height="155" key="GridCell.Tab.0.right/0.0.1350.730@0.0.1350.730" timestamp="1600049435860" />
+    <state x="179" y="11" key="SettingsEditor" timestamp="1599463832657">
+      <screen x="0" y="0" width="1350" height="730" />
+    </state>
+    <state x="179" y="11" key="SettingsEditor/0.0.1350.730@0.0.1350.730" timestamp="1599463832657" />
+    <state x="374" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1599999882823">
+      <screen x="0" y="0" width="1350" height="730" />
+    </state>
+    <state x="374" y="194" key="com.intellij.ide.util.TipDialog/0.0.1350.730@0.0.1350.730" timestamp="1599999882823" />
+    <state x="371" y="0" width="608" height="730" key="find.popup" timestamp="1599463352144">
+      <screen x="0" y="0" width="1350" height="730" />
+    </state>
+    <state x="371" y="0" width="608" height="730" key="find.popup/0.0.1350.730@0.0.1350.730" timestamp="1599463352144" />
+  </component>
+</project>
